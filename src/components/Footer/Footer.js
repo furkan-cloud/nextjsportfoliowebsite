@@ -33,13 +33,13 @@ Turn your dreams into real
       </Slogan>
     </CompanyContainer>
     <SocialContainer>
-    <SocialIcons href="https://github.com" >
+    <SocialIcons href="https://github.com/furkan-cloud" >
         <AiFillGithub size="3rem"/>
       </SocialIcons>
-      <SocialIcons href="https://linkedin.com" >
+      <SocialIcons href="https://www.linkedin.com/in/furkan-turkoglu/" >
         <AiFillLinkedin size="3rem"/>
       </SocialIcons>
-      <SocialIcons href="https://instagram.com" >
+      <SocialIcons href="https://www.instagram.com/poemyapp/" >
         <AiFillInstagram size="3rem"/>
       </SocialIcons>
       </SocialContainer>

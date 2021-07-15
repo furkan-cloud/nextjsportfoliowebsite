@@ -14,7 +14,7 @@ const Hero = (props) => (
     <SectionText>
       You can find my projects about react, react native, javascript, html, css and more. You can also read my writings about IT.
     </SectionText>
-    <Button onClick={() => window.location = `https://google.com`}>
+    <Button onClick={() => window.location = `https://www.linkedin.com/in/furkan-turkoglu/`}>
       Learn More
     </Button>
   </LeftSection>

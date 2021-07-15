@@ -53,7 +53,7 @@ const Timeline = () => {
 {TimeLineData.map((item, index) => (
   <CarouselMobileScrollNode key={index} final={index === TOTAL_CAROUSEL_COUNT - 1} >
     <CarouselItem
-    indexx={index}
+    index={index}
     id={`carousel__item-${index}`}
     active={activeItem}
     onClick={(e) => handleClick(e, index)}

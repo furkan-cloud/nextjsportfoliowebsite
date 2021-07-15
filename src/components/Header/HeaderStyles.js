@@ -34,6 +34,10 @@ export const Div2 = styled.div`
   grid-area: 1 / 2 / 2 / 4;
   display: flex;
   justify-content: space-around;
+  align-items: center;
+  @media ${(props) => props.theme.breakpoints.md} {
+    grid-area: 1 / 2 / 2 / 5;
+  }
   @media ${(props) => props.theme.breakpoints.sm} {
     grid-area: 2 / 2 / 3 / 5;
   }
@@ -44,7 +48,6 @@ export const Div3 = styled.div`
   justify-content: space-around;
   align-items: center;
   @media ${(props) => props.theme.breakpoints.sm} {
-    align-items: center;
     grid-area: 1 / 4 / 2 / 6;
   }
 `;
